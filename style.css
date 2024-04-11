@@ -1,0 +1,15 @@
+#tu_dibujo,#precision{
+    font-size: 2.5rem
+}
+
+#puntuacion {
+    font-size: 3rem;
+    float: left;
+    padding: 5rem;
+  }
+  
+  #tiempo {
+    font-size: 3rem;
+    float: right;
+    padding: 5rem;
+  }
